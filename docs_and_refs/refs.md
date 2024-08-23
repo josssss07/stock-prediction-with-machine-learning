@@ -10,3 +10,7 @@
 - https://www.youtube.com/watch?v=RHeUqqrxP-w
 - https://www.interactivebrokers.com/campus/ibkr-quant-news/random-forest-algorithm-in-trading-using-python/#:~:text=Random%20forest%20is%20a%20supervised,of%20overfitting%20in%20decision%20trees.
 
+
+# random forest explanations:
+
+- 1
