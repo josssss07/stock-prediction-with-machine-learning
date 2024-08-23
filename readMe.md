@@ -8,4 +8,6 @@
 - linear regression 
 - support vector model
 
-### also if there is time add a natural language and sentiment analysis section for spam email detection 
+# Data set from: 
+- https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset
+
